@@ -14,6 +14,12 @@
 		
 
 		<h1>sample ni</h1>
+		
+		</p>
+	
+		<p>
+		SAMPLE		
+	</p>
 
 	</div>
 
